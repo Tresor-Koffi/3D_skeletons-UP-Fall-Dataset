@@ -3,7 +3,7 @@
 ## Overview
 This dataset contains improved skeletal data extracted from fall events and daily activities of 5 subjects.
 The data is organized by subjects, and each subject contains CSV files named according to the pattern C1S1A1T1, where:
-- **C**: Camera (1 or 2)
+- **C**: Camera (1 or 2) # So C1 refer to the data extracted from  camera 1 data and C2 refer to data extracted from the camera 2
 - **S**: Subject (1 to 5)
 - **A**: Activity (1 to N, representing different activities)
 - **T**: Trial (1 to 3)
